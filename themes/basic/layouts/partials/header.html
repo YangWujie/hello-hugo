@@ -2,8 +2,8 @@
 	<h1>{{ .Site.Title }}</h1>
 </header>
 <nav>
-	<a href="/">Home</a>
-	<a href="/about">About</a>
-	<a href="/resume">Résumé</a>
-	<a href="/contact">Contact</a>
+	<a href="{{ "" | relURL }}">Home</a>
+	<a href="{{ "about" | relURL }}">About</a>
+	<a href="{{ "resume" | relURL }}">Résumé</a>
+	<a href="{{ "contact" | relURL }}">Contact</a>
 </nav>
