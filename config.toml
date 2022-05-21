@@ -1,4 +1,4 @@
-baseURL = 'https://yangwujie.github.io/hello-hugo'
+baseURL = 'https://yangwujie.github.io/'
 languageCode = 'zh-cn'
 title = 'Hello Hugo'
 theme = 'basic'
