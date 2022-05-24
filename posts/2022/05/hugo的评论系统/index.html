@@ -29,18 +29,26 @@
 			<a class="tag" href="/hello-hugo/%20/tags/disqus">disqus</a>
 			
 		</span>
-		<p>Reading time: 0 minutes.</p>
+		<p>Reading time: 1 minutes.</p>
 	</header>
 	<section class="body">
 		<p>Hugo内建了Disqus支持，但Disqus被屏蔽了。</p>
 <p><a href="https://gohugo.io/content-management/comments/">Hugo文档</a>给出了一些替代方案，对我这样的穷人来说，<a href="https://utteranc.es/">Utterances</a>似乎较为可行。</p>
+<p>根据Utterances的文档，测试过程很顺利，评论显示出来了。不过Utterances显示的是英文，和我的中文网站有点不搭调。在搜索解决方案的过程中，发现了一个更活跃，似乎更合乎我的需要的一个开源项目<a href="https://giscus.app/zh-CN">giscus</a>。从Utterances向giscus迁移的理由可参看<a href="https://shipit.dev/posts/from-utterances-to-giscus.html">Moving from utterances to giscus</a>。</p>
 	</section>
 
-	<script 
-		src="https://utteranc.es/client.js"
-		repo="YangWujie/hello-hugo"
-		issue-term="pathname"
-		theme="github-light"
+	<script
+		src="https://giscus.app/client.js"
+		data-repo="YangWujie/hello-hugo"
+		data-repo-id="R_kgDOHXv4TA"
+		data-category="Announcements"
+		data-category-id="DIC_kwDOHXv4TM4CPQjA"
+		data-mapping="pathname"
+		data-reactions-enabled="1"
+		data-emit-metadata="0"
+		data-input-position="bottom"
+		data-theme="light"
+		data-lang="zh-CN"
 		crossorigin="anonymous"
 		async>
 	</script>
