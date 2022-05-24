@@ -8,7 +8,7 @@
 			in
 			{{ range .Params.tags }}
 			{{- $tag := . | urlize -}}
-			<a class="tag" href="{{ printf " /tags/%s" $tag | relURL }}">{{ . }}</a>
+			<a class="tag" href="{{ printf "/tags/%s" $tag | relURL }}">{{ . }}</a>
 			{{ end }}
 		</span>
 		<p>Reading time: {{ math.Round (div (countwords .Content) 200.0) }} minutes.</p>
