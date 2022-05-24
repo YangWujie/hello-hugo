@@ -14,3 +14,5 @@ tags:
 Hugo内建了Disqus支持，但Disqus被屏蔽了。
 <!--more-->
 [Hugo文档](https://gohugo.io/content-management/comments/)给出了一些替代方案，对我这样的穷人来说，[Utterances](https://utteranc.es/)似乎较为可行。
+
+根据Utterances的文档，测试过程很顺利，评论显示出来了。不过Utterances显示的是英文，和我的中文网站有点不搭调。在搜索解决方案的过程中，发现了一个更活跃，似乎更合乎我的需要的一个开源项目[giscus](https://giscus.app/zh-CN)。从Utterances向giscus迁移的理由可参看[Moving from utterances to giscus](https://shipit.dev/posts/from-utterances-to-giscus.html)。
