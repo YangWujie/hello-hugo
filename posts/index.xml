@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Hello Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 24 May 2022 14:13:27 +0800</lastBuildDate><atom:link href="https://yangwujie.github.io/hello-hugo/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 May 2022 15:34:42 +0800</lastBuildDate><atom:link href="https://yangwujie.github.io/hello-hugo/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sass——好拗口的名字</title>
+      <link>https://yangwujie.github.io/hello-hugo/posts/2022/05/sass%E5%A5%BD%E6%8B%97%E5%8F%A3%E7%9A%84%E5%90%8D%E5%AD%97/</link>
+      <pubDate>Tue, 24 May 2022 15:34:42 +0800</pubDate>
+      
+      <guid>https://yangwujie.github.io/hello-hugo/posts/2022/05/sass%E5%A5%BD%E6%8B%97%E5%8F%A3%E7%9A%84%E5%90%8D%E5%AD%97/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://sass-lang.com/&#34;&gt;Sass: Syntactically Awesome Style Sheets&lt;/a&gt;。&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>在Linux下查找包含指定字符串的文件</title>
       <link>https://yangwujie.github.io/hello-hugo/posts/2022/05/%E5%9C%A8linux%E4%B8%8B%E6%9F%A5%E6%89%BE%E5%8C%85%E5%90%AB%E6%8C%87%E5%AE%9A%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%96%87%E4%BB%B6/</link>
