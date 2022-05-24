@@ -6,7 +6,16 @@
     <description>Recent content in Categories on Hello Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 24 May 2022 00:10:17 +0800</lastBuildDate><atom:link href="https://yangwujie.github.io/hello-hugo/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 May 2022 10:14:39 +0800</lastBuildDate><atom:link href="https://yangwujie.github.io/hello-hugo/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>工具</title>
+      <link>https://yangwujie.github.io/hello-hugo/categories/%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Tue, 24 May 2022 10:14:39 +0800</pubDate>
+      
+      <guid>https://yangwujie.github.io/hello-hugo/categories/%E5%B7%A5%E5%85%B7/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Personal</title>
       <link>https://yangwujie.github.io/hello-hugo/categories/personal/</link>
@@ -22,15 +31,6 @@
       <pubDate>Tue, 24 May 2022 00:10:17 +0800</pubDate>
       
       <guid>https://yangwujie.github.io/hello-hugo/categories/thoughts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>工具</title>
-      <link>https://yangwujie.github.io/hello-hugo/categories/%E5%B7%A5%E5%85%B7/</link>
-      <pubDate>Mon, 23 May 2022 17:08:33 +0800</pubDate>
-      
-      <guid>https://yangwujie.github.io/hello-hugo/categories/%E5%B7%A5%E5%85%B7/</guid>
       <description></description>
     </item>
     
