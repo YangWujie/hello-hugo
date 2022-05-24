@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2022 on Hello Hugo</title>
+    <link>https://yangwujie.github.io/hello-hugo/posts/2022/</link>
+    <description>Recent content in 2022 on Hello Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 24 May 2022 00:10:17 +0800</lastBuildDate><atom:link href="https://yangwujie.github.io/hello-hugo/posts/2022/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Third Post</title>
+      <link>https://yangwujie.github.io/hello-hugo/posts/2022/05/third-post/</link>
+      <pubDate>Tue, 24 May 2022 00:10:17 +0800</pubDate>
+      
+      <guid>https://yangwujie.github.io/hello-hugo/posts/2022/05/third-post/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Second Post</title>
+      <link>https://yangwujie.github.io/hello-hugo/posts/2022/05/second-post/</link>
+      <pubDate>Mon, 23 May 2022 23:42:34 +0800</pubDate>
+      
+      <guid>https://yangwujie.github.io/hello-hugo/posts/2022/05/second-post/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Linux命令行代理ProxyChains</title>
+      <link>https://yangwujie.github.io/hello-hugo/posts/2022/05/linux%E5%91%BD%E4%BB%A4%E8%A1%8C%E4%BB%A3%E7%90%86proxychains/</link>
+      <pubDate>Mon, 23 May 2022 17:08:33 +0800</pubDate>
+      
+      <guid>https://yangwujie.github.io/hello-hugo/posts/2022/05/linux%E5%91%BD%E4%BB%A4%E8%A1%8C%E4%BB%A3%E7%90%86proxychains/</guid>
+      <description>&lt;p&gt;ProxyChains是Linux下的命令行代理工具，支持HTTP、 SOCKS4和SOCKS5类型的代理服务器，可配置多个代理。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://yangwujie.github.io/hello-hugo/posts/2022/05/first-post/</link>
+      <pubDate>Mon, 23 May 2022 17:06:42 +0800</pubDate>
+      
+      <guid>https://yangwujie.github.io/hello-hugo/posts/2022/05/first-post/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

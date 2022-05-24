@@ -1,1 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Hello Hugo</title><link>https://yangwujie.github.io/hello-hugo/categories/</link><description>Recent content in Categories on Hello Hugo</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><atom:link href="https://yangwujie.github.io/hello-hugo/categories/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Hello Hugo</title>
+    <link>https://yangwujie.github.io/hello-hugo/categories/</link>
+    <description>Recent content in Categories on Hello Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 24 May 2022 00:10:17 +0800</lastBuildDate><atom:link href="https://yangwujie.github.io/hello-hugo/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal</title>
+      <link>https://yangwujie.github.io/hello-hugo/categories/personal/</link>
+      <pubDate>Tue, 24 May 2022 00:10:17 +0800</pubDate>
+      
+      <guid>https://yangwujie.github.io/hello-hugo/categories/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thoughts</title>
+      <link>https://yangwujie.github.io/hello-hugo/categories/thoughts/</link>
+      <pubDate>Tue, 24 May 2022 00:10:17 +0800</pubDate>
+      
+      <guid>https://yangwujie.github.io/hello-hugo/categories/thoughts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>工具</title>
+      <link>https://yangwujie.github.io/hello-hugo/categories/%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Mon, 23 May 2022 17:08:33 +0800</pubDate>
+      
+      <guid>https://yangwujie.github.io/hello-hugo/categories/%E5%B7%A5%E5%85%B7/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

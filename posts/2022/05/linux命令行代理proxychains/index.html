@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html><head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Linux命令行代理ProxyChains – Hello Hugo</title>
+	<meta name="description" content="My portfolio site">
+	<link rel="stylesheet" href="/hello-hugo/css/style.css">
+	
+</head><body>
+	<div class="container"><header>
+	<h1>Hello Hugo</h1>
+</header>
+<nav>
+	<a href="/hello-hugo/">Home</a>
+	<a href="/hello-hugo/about">About</a>
+	<a href="/hello-hugo/posts">Blog</a>
+	<a href="/hello-hugo/projects">Projects</a>
+	<a href="/hello-hugo/resume">Résumé</a>
+	<a href="/hello-hugo/contact">Contact</a>
+</nav><main>
+<article class="post">
+	<header>
+		<h2>Linux命令行代理ProxyChains</h2>
+		<p>By 杨武杰</p>
+		<p>Posted May 23, 2022</p>
+		<span class="tags">
+			in
+			<a class="tag" href="/hello-hugo/%20/tags/linux">Linux</a>
+			<a class="tag" href="/hello-hugo/%20/tags/%E4%BB%A3%E7%90%86">代理</a>
+			<a class="tag" href="/hello-hugo/%20/tags/%E5%91%BD%E4%BB%A4%E8%A1%8C">命令行</a>
+			<a class="tag" href="/hello-hugo/%20/tags/proxychains">ProxyChains</a>
+			
+		</span>
+		<p>Reading time: 1 minutes.</p>
+	</header>
+	<section class="body">
+		<p>ProxyChains是Linux下的命令行代理工具，支持HTTP、 SOCKS4和SOCKS5类型的代理服务器，可配置多个代理。</p>
+<p><a href="https://github.com/rofl0r/proxychains-ng/">proxychains</a> 通过一个预先装载的动态库(dlsym(), LD_PRELOAD)截获动态链接的网络函数，并将其重定向到代理服务器。它仅支持TCP(不支持UDP和ICMP)。</p>
+<p>在ubuntu下，ProxyChains 有两个版本：proxychains和proxychains4，建议使用proxychains4。</p>
+<p>安装后，配置很简单，可参考 <strong>/etc/proxychains4.conf</strong>。</p>
+	</section>
+	<section class="comments">
+		<h3>Comments</h3>
+		<div id="disqus_thread"></div>
+<script type="application/javascript">
+    window.disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "yangwj" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+	</section>
+</article>
+
+		</main><footer>
+	<small>Copyright 2022 YWJ.</small>
+</footer></div>
+</body>
+
+</html>
