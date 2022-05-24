@@ -3,20 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://yangwujie.github.io/hello-hugo/</loc>
-    <lastmod>2022-05-24T13:01:06+08:00</lastmod>
+    <lastmod>2022-05-24T14:13:27+08:00</lastmod>
     <priority>0</priority>
   </url><url>
     <loc>https://yangwujie.github.io/hello-hugo/posts/2022/</loc>
-    <lastmod>2022-05-24T13:01:06+08:00</lastmod>
+    <lastmod>2022-05-24T14:13:27+08:00</lastmod>
   </url><url>
     <loc>https://yangwujie.github.io/hello-hugo/categories/</loc>
-    <lastmod>2022-05-24T13:01:06+08:00</lastmod>
+    <lastmod>2022-05-24T14:13:27+08:00</lastmod>
+  </url><url>
+    <loc>https://yangwujie.github.io/hello-hugo/tags/linux/</loc>
+    <lastmod>2022-05-24T14:13:27+08:00</lastmod>
   </url><url>
     <loc>https://yangwujie.github.io/hello-hugo/posts/</loc>
-    <lastmod>2022-05-24T13:01:06+08:00</lastmod>
+    <lastmod>2022-05-24T14:13:27+08:00</lastmod>
   </url><url>
     <loc>https://yangwujie.github.io/hello-hugo/year/</loc>
-    <lastmod>2022-05-24T13:01:06+08:00</lastmod>
+    <lastmod>2022-05-24T14:13:27+08:00</lastmod>
+  </url><url>
+    <loc>https://yangwujie.github.io/hello-hugo/tags/%E5%91%BD%E4%BB%A4%E8%A1%8C/</loc>
+    <lastmod>2022-05-24T14:13:27+08:00</lastmod>
+  </url><url>
+    <loc>https://yangwujie.github.io/hello-hugo/posts/2022/05/%E5%9C%A8linux%E4%B8%8B%E6%9F%A5%E6%89%BE%E5%8C%85%E5%90%AB%E6%8C%87%E5%AE%9A%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%96%87%E4%BB%B6/</loc>
+    <lastmod>2022-05-24T14:13:27+08:00</lastmod>
+  </url><url>
+    <loc>https://yangwujie.github.io/hello-hugo/categories/%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2022-05-24T14:13:27+08:00</lastmod>
   </url><url>
     <loc>https://yangwujie.github.io/hello-hugo/tags/%E7%96%AB%E6%83%85/</loc>
     <lastmod>2022-05-24T13:01:06+08:00</lastmod>
@@ -37,9 +49,6 @@
     <lastmod>2022-05-24T10:14:39+08:00</lastmod>
   </url><url>
     <loc>https://yangwujie.github.io/hello-hugo/posts/2022/05/hugo%E7%9A%84%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F/</loc>
-    <lastmod>2022-05-24T10:14:39+08:00</lastmod>
-  </url><url>
-    <loc>https://yangwujie.github.io/hello-hugo/categories/%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2022-05-24T10:14:39+08:00</lastmod>
   </url><url>
     <loc>https://yangwujie.github.io/hello-hugo/tags/html/</loc>
@@ -63,9 +72,6 @@
     <loc>https://yangwujie.github.io/hello-hugo/tags/</loc>
     <lastmod>2022-05-23T18:50:34+08:00</lastmod>
   </url><url>
-    <loc>https://yangwujie.github.io/hello-hugo/tags/linux/</loc>
-    <lastmod>2022-05-23T17:08:33+08:00</lastmod>
-  </url><url>
     <loc>https://yangwujie.github.io/hello-hugo/posts/2022/05/linux%E5%91%BD%E4%BB%A4%E8%A1%8C%E4%BB%A3%E7%90%86proxychains/</loc>
     <lastmod>2022-05-23T17:08:33+08:00</lastmod>
   </url><url>
@@ -73,9 +79,6 @@
     <lastmod>2022-05-23T17:08:33+08:00</lastmod>
   </url><url>
     <loc>https://yangwujie.github.io/hello-hugo/tags/%E4%BB%A3%E7%90%86/</loc>
-    <lastmod>2022-05-23T17:08:33+08:00</lastmod>
-  </url><url>
-    <loc>https://yangwujie.github.io/hello-hugo/tags/%E5%91%BD%E4%BB%A4%E8%A1%8C/</loc>
     <lastmod>2022-05-23T17:08:33+08:00</lastmod>
   </url><url>
     <loc>https://yangwujie.github.io/hello-hugo/posts/2022/05/first-post/</loc>
