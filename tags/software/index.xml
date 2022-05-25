@@ -6,7 +6,118 @@
     <description>Recent content in software on Hello Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 24 May 2022 00:10:17 +0800</lastBuildDate><atom:link href="https://yangwujie.github.io/hello-hugo/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 May 2022 00:10:17 +0800</lastBuildDate>
+    
+	<atom:link href="https://yangwujie.github.io/hello-hugo/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>Etch主题</title>
+      <link>https://yangwujie.github.io/hello-hugo/posts/2022/05/etch%E4%B8%BB%E9%A2%98/</link>
+      <pubDate>Wed, 25 May 2022 09:30:46 +0800</pubDate>
+      
+      <guid>https://yangwujie.github.io/hello-hugo/posts/2022/05/etch%E4%B8%BB%E9%A2%98/</guid>
+      <description>&lt;p&gt;用&lt;strong&gt;git submodule&lt;/strong&gt;安装了Hugo主题etch。&lt;/p&gt;
+&lt;p&gt;这样，这个试验网站已经有两个主题了。虽然Hugo只能生成静态网站，但是否可以在部署时用多个主题同时生成多套网页呢？感觉应该是可以的。&lt;/p&gt;
+&lt;p&gt;etch的汉化。在Hugo site主目录里创建名为i18n的文件夹，把themes/etch/i18n/en.toml拷贝到新创建的文件夹，然后翻译汉化即可。目前，这个文件名只能是en.toml。如果允许同时存在多个语言文件，然后能自动选择就好了。&lt;/p&gt;
+&lt;p&gt;不知道在github上部署时，git submodule会不会有问题？&lt;/p&gt;</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>疫情中虚构的旅行</title>
+      <link>https://yangwujie.github.io/hello-hugo/posts/2022/05/%E7%96%AB%E6%83%85%E4%B8%AD%E8%99%9A%E6%9E%84%E7%9A%84%E6%97%85%E8%A1%8C/</link>
+      <pubDate>Tue, 24 May 2022 16:42:29 +0800</pubDate>
+      
+      <guid>https://yangwujie.github.io/hello-hugo/posts/2022/05/%E7%96%AB%E6%83%85%E4%B8%AD%E8%99%9A%E6%9E%84%E7%9A%84%E6%97%85%E8%A1%8C/</guid>
+      <description>&lt;p&gt;疫情管控，不能旅行，幻想出的长城之旅。&lt;/p&gt;
+&lt;p&gt;
+
+&lt;figure class=&#34;post-figure&#34;&gt;
+	&lt;a href=&#34;https://yangwujie.github.io/hello-hugo/hello-hugo/posts/2022/05/%E7%96%AB%E6%83%85%E4%B8%AD%E8%99%9A%E6%9E%84%E7%9A%84%E6%97%85%E8%A1%8C/images/The_Great_wall.jpg&#34;&gt;
+		
+		&lt;img src=&#34;https://yangwujie.github.io/hello-hugo/hello-hugo/posts/2022/05/%E7%96%AB%E6%83%85%E4%B8%AD%E8%99%9A%E6%9E%84%E7%9A%84%E6%97%85%E8%A1%8C/images/The_Great_wall_hud439e724ba414af6373e0edd8088d758_896775_1024x0_resize_q75_box.jpg&#34; width=&#34;1024&#34; height=&#34;683&#34; alt=&#34;万里长城&#34; /&gt;
+		
+	&lt;/a&gt;
+	&lt;figcaption&gt;万里长城&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;figure class=&#34;post-figure&#34;&gt;
+	&lt;a href=&#34;https://yangwujie.github.io/hello-hugo/hello-hugo/posts/2022/05/%E7%96%AB%E6%83%85%E4%B8%AD%E8%99%9A%E6%9E%84%E7%9A%84%E6%97%85%E8%A1%8C/images/Great_Wall_Jinshanling.jpg&#34;&gt;
+		
+		&lt;img src=&#34;https://yangwujie.github.io/hello-hugo/hello-hugo/posts/2022/05/%E7%96%AB%E6%83%85%E4%B8%AD%E8%99%9A%E6%9E%84%E7%9A%84%E6%97%85%E8%A1%8C/images/Great_Wall_Jinshanling_hu4b7bf8d501a60f347ede42a21ce3a54c_858453_1024x0_resize_q75_box.jpg&#34; width=&#34;1024&#34; height=&#34;681&#34; alt=&#34;金山岭长城&#34; /&gt;
+		
+	&lt;/a&gt;
+	&lt;figcaption&gt;金山岭长城&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/p&gt;</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Sass——好拗口的名字</title>
+      <link>https://yangwujie.github.io/hello-hugo/posts/2022/05/sass%E5%A5%BD%E6%8B%97%E5%8F%A3%E7%9A%84%E5%90%8D%E5%AD%97/</link>
+      <pubDate>Tue, 24 May 2022 15:34:42 +0800</pubDate>
+      
+      <guid>https://yangwujie.github.io/hello-hugo/posts/2022/05/sass%E5%A5%BD%E6%8B%97%E5%8F%A3%E7%9A%84%E5%90%8D%E5%AD%97/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://sass-lang.com/&#34;&gt;Sass: Syntactically Awesome Style Sheets&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;CSS with superpowers. Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.&lt;/p&gt;
+&lt;p&gt;An SCSS file is a style sheet that contains Sass language.&lt;/p&gt;</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>在Linux下查找包含指定字符串的文件</title>
+      <link>https://yangwujie.github.io/hello-hugo/posts/2022/05/%E5%9C%A8linux%E4%B8%8B%E6%9F%A5%E6%89%BE%E5%8C%85%E5%90%AB%E6%8C%87%E5%AE%9A%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%96%87%E4%BB%B6/</link>
+      <pubDate>Tue, 24 May 2022 14:13:27 +0800</pubDate>
+      
+      <guid>https://yangwujie.github.io/hello-hugo/posts/2022/05/%E5%9C%A8linux%E4%B8%8B%E6%9F%A5%E6%89%BE%E5%8C%85%E5%90%AB%E6%8C%87%E5%AE%9A%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%96%87%E4%BB%B6/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;grep -rnw &amp;lsquo;/path/to/somewhere/&amp;rsquo; -e &amp;lsquo;pattern&amp;rsquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;请参考&lt;a href=&#34;https://stackoverflow.com/questions/16956810/how-do-i-find-all-files-containing-text-on-linux&#34;&gt;How do I find all files containing specific text on Linux?&lt;/a&gt;。&lt;/p&gt;</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>美国人和中国人谁更牛逼？</title>
+      <link>https://yangwujie.github.io/hello-hugo/posts/2022/05/%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%92%8C%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B0%81%E6%9B%B4%E7%89%9B%E9%80%BC/</link>
+      <pubDate>Tue, 24 May 2022 13:01:06 +0800</pubDate>
+      
+      <guid>https://yangwujie.github.io/hello-hugo/posts/2022/05/%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%92%8C%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B0%81%E6%9B%B4%E7%89%9B%E9%80%BC/</guid>
+      <description>&lt;p&gt;中国人：“你们美国人真牛逼，根本不拿新冠当回事。”&lt;/p&gt;
+&lt;p&gt;美国人：“不，不，还是你们中国人最牛逼，除了新冠，其他的都不是事儿。”&lt;/p&gt;</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>疫情防控</title>
+      <link>https://yangwujie.github.io/hello-hugo/posts/2022/05/%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7/</link>
+      <pubDate>Tue, 24 May 2022 12:50:21 +0800</pubDate>
+      
+      <guid>https://yangwujie.github.io/hello-hugo/posts/2022/05/%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7/</guid>
+      <description>&lt;p&gt;因为疫情，社会管控越来越严格。今天邻居老赵说：“我媳妇的同事的男朋友的亲戚核酸检测，同管有个阳性，我被要求居家了”。&lt;/p&gt;</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Hugo的评论系统</title>
+      <link>https://yangwujie.github.io/hello-hugo/posts/2022/05/hugo%E7%9A%84%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F/</link>
+      <pubDate>Tue, 24 May 2022 10:14:39 +0800</pubDate>
+      
+      <guid>https://yangwujie.github.io/hello-hugo/posts/2022/05/hugo%E7%9A%84%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F/</guid>
+      <description>&lt;p&gt;Hugo内建了Disqus支持，但Disqus被屏蔽了。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gohugo.io/content-management/comments/&#34;&gt;Hugo文档&lt;/a&gt;给出了一些替代方案，对我这样的穷人来说，&lt;a href=&#34;https://utteranc.es/&#34;&gt;Utterances&lt;/a&gt;似乎较为可行。&lt;/p&gt;
+&lt;p&gt;根据Utterances的文档，测试过程很顺利，评论显示出来了。不过Utterances显示的是英文，和我的中文网站有点不搭调。在搜索解决方案的过程中，发现了一个更活跃，似乎更合乎我的需要的一个开源项目&lt;a href=&#34;https://giscus.app/zh-CN&#34;&gt;giscus&lt;/a&gt;。从Utterances向giscus迁移的理由可参看&lt;a href=&#34;https://shipit.dev/posts/from-utterances-to-giscus.html&#34;&gt;Moving from utterances to giscus&lt;/a&gt;。&lt;/p&gt;</description>
+    </item>
+    
+    
+    
     <item>
       <title>Third Post</title>
       <link>https://yangwujie.github.io/hello-hugo/posts/2022/05/third-post/</link>
@@ -14,8 +125,12 @@
       
       <guid>https://yangwujie.github.io/hello-hugo/posts/2022/05/third-post/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;</description>
+tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;
+&lt;p&gt;Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+aliquip ex ea commodo consequat.&lt;/p&gt;</description>
     </item>
+    
+    
     
     <item>
       <title>Second Post</title>
@@ -24,8 +139,53 @@ tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;</description>
       
       <guid>https://yangwujie.github.io/hello-hugo/posts/2022/05/second-post/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;</description>
+tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;
+&lt;p&gt;Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+aliquip ex ea commodo consequat.&lt;/p&gt;</description>
     </item>
+    
+    
+    
+    <item>
+      <title>Linux命令行代理ProxyChains</title>
+      <link>https://yangwujie.github.io/hello-hugo/posts/2022/05/linux%E5%91%BD%E4%BB%A4%E8%A1%8C%E4%BB%A3%E7%90%86proxychains/</link>
+      <pubDate>Mon, 23 May 2022 17:08:33 +0800</pubDate>
+      
+      <guid>https://yangwujie.github.io/hello-hugo/posts/2022/05/linux%E5%91%BD%E4%BB%A4%E8%A1%8C%E4%BB%A3%E7%90%86proxychains/</guid>
+      <description>&lt;p&gt;ProxyChains是Linux下的命令行代理工具，支持HTTP、 SOCKS4和SOCKS5类型的代理服务器，可配置多个代理。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/rofl0r/proxychains-ng/&#34;&gt;proxychains&lt;/a&gt; 通过一个预先装载的动态库(dlsym(), LD_PRELOAD)截获动态链接的网络函数，并将其重定向到代理服务器。它仅支持TCP(不支持UDP和ICMP)。&lt;/p&gt;
+&lt;p&gt;在ubuntu下，ProxyChains 有两个版本：proxychains和proxychains4，建议使用proxychains4。&lt;/p&gt;
+&lt;p&gt;安装后，配置很简单，可参考 &lt;strong&gt;/etc/proxychains4.conf&lt;/strong&gt;。&lt;/p&gt;</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>https://yangwujie.github.io/hello-hugo/posts/2022/05/first-post/</link>
+      <pubDate>Mon, 23 May 2022 17:06:42 +0800</pubDate>
+      
+      <guid>https://yangwujie.github.io/hello-hugo/posts/2022/05/first-post/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;
+&lt;p&gt;Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+aliquip ex ea commodo consequat.&lt;/p&gt;</description>
+    </item>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
   </channel>
 </rss>
