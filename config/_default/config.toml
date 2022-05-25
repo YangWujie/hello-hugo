@@ -1,7 +1,8 @@
-baseURL = 'https://yangwujie.github.io/hello-hugo'
+baseURL = 'https://yangwujie.github.io/hello-hugo/basic'
+publishDir = 'public/basic'
 languageCode = 'zh-cn'
 title = 'Hello Hugo'
-theme = 'etch'
+theme = 'basic'
 disqusShortname = "yangwj"
 
 [params]
