@@ -1,11 +1,11 @@
 baseURL = 'https://yangwujie.github.io/hello-hugo'
 languageCode = 'zh-cn'
 title = 'Hello Hugo'
-theme = 'basic'
+theme = 'etch'
 disqusShortname = "yangwj"
 
 [params]
-author = "Brian Hogan"
+author = "杨武杰"
 description = "My portfolio site"
 gh_url = "https://api.github.com/users"
 gh_user = "YangWujie"
