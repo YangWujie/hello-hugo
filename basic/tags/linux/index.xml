@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Hello Hugo</title>
+    <link>https://yangwujie.github.io/hello-hugo/basic/tags/linux/</link>
+    <description>Recent content in Linux on Hello Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 24 May 2022 14:13:27 +0800</lastBuildDate><atom:link href="https://yangwujie.github.io/hello-hugo/basic/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>在Linux下查找包含指定字符串的文件</title>
+      <link>https://yangwujie.github.io/hello-hugo/basic/posts/2022/05/%E5%9C%A8linux%E4%B8%8B%E6%9F%A5%E6%89%BE%E5%8C%85%E5%90%AB%E6%8C%87%E5%AE%9A%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%96%87%E4%BB%B6/</link>
+      <pubDate>Tue, 24 May 2022 14:13:27 +0800</pubDate>
+      
+      <guid>https://yangwujie.github.io/hello-hugo/basic/posts/2022/05/%E5%9C%A8linux%E4%B8%8B%E6%9F%A5%E6%89%BE%E5%8C%85%E5%90%AB%E6%8C%87%E5%AE%9A%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%96%87%E4%BB%B6/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;grep -rnw &amp;lsquo;/path/to/somewhere/&amp;rsquo; -e &amp;lsquo;pattern&amp;rsquo;&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Linux命令行代理ProxyChains</title>
+      <link>https://yangwujie.github.io/hello-hugo/basic/posts/2022/05/linux%E5%91%BD%E4%BB%A4%E8%A1%8C%E4%BB%A3%E7%90%86proxychains/</link>
+      <pubDate>Mon, 23 May 2022 17:08:33 +0800</pubDate>
+      
+      <guid>https://yangwujie.github.io/hello-hugo/basic/posts/2022/05/linux%E5%91%BD%E4%BB%A4%E8%A1%8C%E4%BB%A3%E7%90%86proxychains/</guid>
+      <description>&lt;p&gt;ProxyChains是Linux下的命令行代理工具，支持HTTP、 SOCKS4和SOCKS5类型的代理服务器，可配置多个代理。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Year on Hello Hugo</title>
+    <link>https://yangwujie.github.io/hello-hugo/basic/year/</link>
+    <description>Recent content in Year on Hello Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 25 May 2022 09:30:46 +0800</lastBuildDate><atom:link href="https://yangwujie.github.io/hello-hugo/basic/year/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2022</title>
+      <link>https://yangwujie.github.io/hello-hugo/basic/posts/2022/</link>
+      <pubDate>Wed, 25 May 2022 09:30:46 +0800</pubDate>
+      
+      <guid>https://yangwujie.github.io/hello-hugo/basic/posts/2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>html on Hello Hugo</title>
+    <link>https://yangwujie.github.io/hello-hugo/basic/tags/html/</link>
+    <description>Recent content in html on Hello Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 24 May 2022 00:10:17 +0800</lastBuildDate><atom:link href="https://yangwujie.github.io/hello-hugo/basic/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Third Post</title>
+      <link>https://yangwujie.github.io/hello-hugo/basic/posts/2022/05/third-post/</link>
+      <pubDate>Tue, 24 May 2022 00:10:17 +0800</pubDate>
+      
+      <guid>https://yangwujie.github.io/hello-hugo/basic/posts/2022/05/third-post/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Second Post</title>
+      <link>https://yangwujie.github.io/hello-hugo/basic/posts/2022/05/second-post/</link>
+      <pubDate>Mon, 23 May 2022 23:42:34 +0800</pubDate>
+      
+      <guid>https://yangwujie.github.io/hello-hugo/basic/posts/2022/05/second-post/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

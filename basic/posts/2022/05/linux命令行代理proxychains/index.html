@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html><head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Linux命令行代理ProxyChains – Hello Hugo</title>
+	<meta name="description" content="My portfolio site">
+	
+	<link rel="stylesheet" href="/hello-hugo/basic/css/style.ad9124df1daafa0eb7d73e95139f8fdd64b9b788a1348690cc061afbced3fbf7.css">
+	
+</head><body>
+	<div class="container"><header>
+	<h1>Hello Hugo</h1>
+</header>
+<nav>
+	<a href="/hello-hugo/basic/">Home</a>
+	<a href="/hello-hugo/basic/about">About</a>
+	<a href="/hello-hugo/basic/posts">Blog</a>
+	<a href="/hello-hugo/basic/projects">Projects</a>
+	<a href="/hello-hugo/basic/resume">Résumé</a>
+	<a href="/hello-hugo/basic/contact">Contact</a>
+</nav><main>
+<article class="post">
+	<header>
+		<h2>Linux命令行代理ProxyChains</h2>
+		<p>By 杨武杰</p>
+		<p>Posted May 23, 2022</p>
+		<span class="tags">
+			in
+			<a class="tag" href="/hello-hugo/basic/tags/linux">Linux</a>
+			<a class="tag" href="/hello-hugo/basic/tags/%E4%BB%A3%E7%90%86">代理</a>
+			<a class="tag" href="/hello-hugo/basic/tags/%E5%91%BD%E4%BB%A4%E8%A1%8C">命令行</a>
+			<a class="tag" href="/hello-hugo/basic/tags/proxychains">ProxyChains</a>
+			
+		</span>
+		<p>Reading time: 1 minutes.</p>
+	</header>
+	<section class="body">
+		<p>ProxyChains是Linux下的命令行代理工具，支持HTTP、 SOCKS4和SOCKS5类型的代理服务器，可配置多个代理。</p>
+<p><a href="https://github.com/rofl0r/proxychains-ng/">proxychains</a> 通过一个预先装载的动态库(dlsym(), LD_PRELOAD)截获动态链接的网络函数，并将其重定向到代理服务器。它仅支持TCP(不支持UDP和ICMP)。</p>
+<p>在ubuntu下，ProxyChains 有两个版本：proxychains和proxychains4，建议使用proxychains4。</p>
+<p>安装后，配置很简单，可参考 <strong>/etc/proxychains4.conf</strong>。</p>
+	</section>
+
+	<script
+		src="https://giscus.app/client.js"
+		data-repo="YangWujie/hello-hugo"
+		data-repo-id="R_kgDOHXv4TA"
+		data-category="Announcements"
+		data-category-id="DIC_kwDOHXv4TM4CPQjA"
+		data-mapping="pathname"
+		data-reactions-enabled="1"
+		data-emit-metadata="0"
+		data-input-position="bottom"
+		data-theme="light"
+		data-lang="zh-CN"
+		crossorigin="anonymous"
+		async>
+	</script>
+</article>
+
+		</main><footer>
+	<small>Copyright 2022 Yang.</small>
+	<p>Powered by<br>
+		<a
+			href="https://gohugo.io">
+			<img src="/hello-hugo/basic/logo_of_hugo.svg" width="128" height="38">
+		</a>
+	</p>
+</footer></div>
+</body>
+
+</html>

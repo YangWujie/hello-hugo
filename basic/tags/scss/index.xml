@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scss on Hello Hugo</title>
+    <link>https://yangwujie.github.io/hello-hugo/basic/tags/scss/</link>
+    <description>Recent content in scss on Hello Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 24 May 2022 15:34:42 +0800</lastBuildDate><atom:link href="https://yangwujie.github.io/hello-hugo/basic/tags/scss/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sass——好拗口的名字</title>
+      <link>https://yangwujie.github.io/hello-hugo/basic/posts/2022/05/sass%E5%A5%BD%E6%8B%97%E5%8F%A3%E7%9A%84%E5%90%8D%E5%AD%97/</link>
+      <pubDate>Tue, 24 May 2022 15:34:42 +0800</pubDate>
+      
+      <guid>https://yangwujie.github.io/hello-hugo/basic/posts/2022/05/sass%E5%A5%BD%E6%8B%97%E5%8F%A3%E7%9A%84%E5%90%8D%E5%AD%97/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://sass-lang.com/&#34;&gt;Sass: Syntactically Awesome Style Sheets&lt;/a&gt;。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
